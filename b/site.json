@@ -1,0 +1,28 @@
+{
+  "business": {
+    "name": "E2CS",
+    "category": "Plombier Caen",
+    "address": "3 Av. de la Stèle ZA Cardonville, 14740 Thue et Mue, France",
+    "phone": "02 31 08 14 35",
+    "rating": 4.9,
+    "reviews": 21
+  },
+  "content": {
+    "headline": "Votre plombier à Caen, réactif et fiable",
+    "subline": "Dépannage, installation et rénovation sanitaire — intervention rapide dans tout le Calvados.",
+    "services": [
+      "Dépannage fuite d'eau",
+      "Débouchage canalisation",
+      "Installation sanitaire",
+      "Remplacement chauffe-eau",
+      "Rénovation salle de bain",
+      "Détection de fuite"
+    ],
+    "about": "Fort de son expérience sur Caen et son agglomération, notre entreprise de plomberie accompagne particuliers et professionnels pour tous leurs travaux sanitaires. Reconnus pour notre sérieux et notre réactivité (4,9/5 sur Google), nous intervenons rapidement, avec des tarifs clairs et un travail soigné."
+  },
+  "images": {
+    "about": "assets/intervention.webp",
+    "hero": "assets/artisan.webp",
+    "map": "assets/map.webp"
+  }
+}
